@@ -1,0 +1,3939 @@
+fileFormatVersion: 2
+guid: f42f4a0fb3bfcf640ba251d4902db79c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7139659005827561250
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_0
+  - first:
+      213: -898220350106110899
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_1
+  - first:
+      213: 3003310272232931132
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_2
+  - first:
+      213: 1019112232156861248
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_3
+  - first:
+      213: -2566774046613673477
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_4
+  - first:
+      213: -6408025606752939986
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_5
+  - first:
+      213: 787729761604320184
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_6
+  - first:
+      213: 5753891234666494684
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_7
+  - first:
+      213: -947295433642618334
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_8
+  - first:
+      213: -7386922825137448150
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_9
+  - first:
+      213: 8307380916234042815
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_10
+  - first:
+      213: 4815243379020589760
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_11
+  - first:
+      213: -6738725475397887637
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_12
+  - first:
+      213: 4211263190772149409
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_13
+  - first:
+      213: 8141042072464068227
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_14
+  - first:
+      213: 4124542143809204787
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_15
+  - first:
+      213: 3676613066689481141
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_16
+  - first:
+      213: -3462242081717708672
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_17
+  - first:
+      213: -5291365047825853308
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_18
+  - first:
+      213: 5829908268386862555
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_19
+  - first:
+      213: -1357269390029034738
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_20
+  - first:
+      213: -6445913344148517350
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_21
+  - first:
+      213: 5016810574742512297
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_22
+  - first:
+      213: -506934454038356820
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_23
+  - first:
+      213: -8565636452449192712
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_24
+  - first:
+      213: 847621867605908061
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_25
+  - first:
+      213: -8243667313728007205
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_26
+  - first:
+      213: 1808609952945742073
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_27
+  - first:
+      213: -5669338202965431456
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_28
+  - first:
+      213: -2634792124776033115
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_29
+  - first:
+      213: -791294225656714175
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_30
+  - first:
+      213: 6154820314251025353
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_31
+  - first:
+      213: 1468682603244363145
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_32
+  - first:
+      213: 4127727042746515674
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_33
+  - first:
+      213: -9044797218660607934
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_34
+  - first:
+      213: -1837709276818770824
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_35
+  - first:
+      213: 1870042696093653423
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_36
+  - first:
+      213: -8955296283803608085
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_37
+  - first:
+      213: 4071292816057230618
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_38
+  - first:
+      213: -6758973185945584079
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_39
+  - first:
+      213: 1908474364886085484
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_40
+  - first:
+      213: 1269579436744432184
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_41
+  - first:
+      213: -639805684153605430
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_42
+  - first:
+      213: 3280164913984644673
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_43
+  - first:
+      213: -4449119199591393987
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_44
+  - first:
+      213: -3048338809870429303
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_45
+  - first:
+      213: -5637693803665345037
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_46
+  - first:
+      213: -8608705122007663594
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_47
+  - first:
+      213: -3804149789665388907
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_48
+  - first:
+      213: 828421332093119068
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_49
+  - first:
+      213: 6509324155032876457
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_50
+  - first:
+      213: 6053579376960184461
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_51
+  - first:
+      213: 1164030913369102430
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_52
+  - first:
+      213: -217426908929741204
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_53
+  - first:
+      213: -1796797026250780989
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_54
+  - first:
+      213: -2378241637309573105
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_55
+  - first:
+      213: -304702132009926018
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_56
+  - first:
+      213: -20978439936246600
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_57
+  - first:
+      213: -2001362097832631024
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_58
+  - first:
+      213: 7570659604859079385
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_59
+  - first:
+      213: 2263533969952880922
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_60
+  - first:
+      213: 5698951645250087366
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_61
+  - first:
+      213: -3682328065640214667
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_62
+  - first:
+      213: -1042464615978845112
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_63
+  - first:
+      213: 1714466752366937491
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_64
+  - first:
+      213: -6625772009796957318
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_65
+  - first:
+      213: 8784846456128060133
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_66
+  - first:
+      213: 6069906834251742541
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_67
+  - first:
+      213: 6176658604326901867
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_68
+  - first:
+      213: 29125173530643177
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_69
+  - first:
+      213: 6524330563309203121
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_70
+  - first:
+      213: -1040875564845009688
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_71
+  - first:
+      213: -1670350463760667024
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_72
+  - first:
+      213: -1289621581101653034
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_73
+  - first:
+      213: 1446189083181910054
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_74
+  - first:
+      213: -5801404478589664592
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_75
+  - first:
+      213: 4907533828605860826
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_76
+  - first:
+      213: 8076923808810366116
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_77
+  - first:
+      213: 3620874953986732632
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_78
+  - first:
+      213: 2339333290173615280
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_79
+  - first:
+      213: 1803761197297870017
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_80
+  - first:
+      213: -5773938133719283079
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_81
+  - first:
+      213: -7388025083324444258
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_82
+  - first:
+      213: 1177240214451489515
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_83
+  - first:
+      213: 1104172753440926911
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_84
+  - first:
+      213: 8191838322488026606
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_85
+  - first:
+      213: -3521185721360553302
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_86
+  - first:
+      213: -2311649695001803963
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_87
+  - first:
+      213: 8769101693564817491
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_88
+  - first:
+      213: -7193368658289923873
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_89
+  - first:
+      213: 358051637869966396
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_90
+  - first:
+      213: -8000294943460785263
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_91
+  - first:
+      213: -2371278623101582326
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_92
+  - first:
+      213: -7513740831018577451
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_93
+  - first:
+      213: 2874739182796595616
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_94
+  - first:
+      213: 4093820935544170595
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_95
+  - first:
+      213: 506240498958310011
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_96
+  - first:
+      213: -5643731185734260631
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_97
+  - first:
+      213: 482998491985885767
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_98
+  - first:
+      213: 3572607073286832431
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_99
+  - first:
+      213: -662100112603596237
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_100
+  - first:
+      213: 902763850202377605
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_101
+  - first:
+      213: 7827407433200975503
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_102
+  - first:
+      213: -4895979816659068156
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_103
+  - first:
+      213: 7808947328714233647
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_104
+  - first:
+      213: 793437823225569334
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_105
+  - first:
+      213: 8439839230138046362
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_106
+  - first:
+      213: -862037667168804651
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_107
+  - first:
+      213: -632545154354783423
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_108
+  - first:
+      213: -1782555446817704706
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_109
+  - first:
+      213: 5700107000554316179
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_110
+  - first:
+      213: -9030867753310551859
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_111
+  - first:
+      213: -7005194732759875710
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_112
+  - first:
+      213: 968127618392047482
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_113
+  - first:
+      213: -1294488671199968896
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_114
+  - first:
+      213: -7781236310228103714
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_115
+  - first:
+      213: 6308416448526111079
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_116
+  - first:
+      213: -8034099614268623596
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_117
+  - first:
+      213: 2374275097204709597
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_118
+  - first:
+      213: 4827994995796001709
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_119
+  - first:
+      213: 1851051798078103564
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_120
+  - first:
+      213: -6992529764697185030
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_121
+  - first:
+      213: -1641881427196221988
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_122
+  - first:
+      213: -2037463385211043397
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_123
+  - first:
+      213: 1541170176359666742
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_124
+  - first:
+      213: 8432885750890758849
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_125
+  - first:
+      213: -536957614418830278
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_126
+  - first:
+      213: -1660406335552041357
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_127
+  - first:
+      213: -6392728651521216721
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_128
+  - first:
+      213: -8636035627100970862
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_129
+  - first:
+      213: 8991415319278535203
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_130
+  - first:
+      213: 4230196328110050550
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_131
+  - first:
+      213: -2309687137956339893
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_132
+  - first:
+      213: 6085539760551439366
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_133
+  - first:
+      213: -5509483238081633046
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_134
+  - first:
+      213: -4135321922977169203
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_135
+  - first:
+      213: -4387862041434717532
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_136
+  - first:
+      213: -4865202263371907242
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_137
+  - first:
+      213: -9202095380589414776
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_138
+  - first:
+      213: -972815040224439646
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_139
+  - first:
+      213: 1791081698492243495
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_140
+  - first:
+      213: 2122935762746707976
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_141
+  - first:
+      213: 7008334328852080811
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_142
+  - first:
+      213: 1552033353493889061
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_143
+  - first:
+      213: 4325468299987971583
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_144
+  - first:
+      213: -8460345874104686955
+    second: Purple Crystal Sprite Sheet_ Inactive and Active States_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1121
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22735cbc90a251360800000000000000
+      internalID: 7139659005827561250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1146
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44f5edb951e883f0800000000000000
+      internalID: -898220350106110899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fb9b6c7c6eda920800000000000000
+      internalID: 3003310272232931132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1156
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04317f7fc2d942e00800000000000000
+      internalID: 1019112232156861248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1140
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf966ec9a9cf06cd0800000000000000
+      internalID: -2566774046613673477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1058
+        width: 156
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2052ed69ae1217a0800000000000000
+      internalID: -6408025606752939986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 917
+        width: 696
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbbd6b6b049eea00800000000000000
+      internalID: 787729761604320184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1123
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdab78ea79de9df40800000000000000
+      internalID: 5753891234666494684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1079
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222d16472d78ad2f0800000000000000
+      internalID: -947295433642618334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1116
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b157004d06c7990800000000000000
+      internalID: -7386922825137448150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1040
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd3dfdcdeeb94370800000000000000
+      internalID: 8307380916234042815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1114
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cae299475e23d240800000000000000
+      internalID: 4815243379020589760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1124
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69980822ec3b72a0800000000000000
+      internalID: -6738725475397887637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1062
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ace6ad4f89617a30800000000000000
+      internalID: 4211263190772149409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1094
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e0bbeb1aacaf070800000000000000
+      internalID: 8141042072464068227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1116
+        width: 100
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33230ee1a315d3930800000000000000
+      internalID: 4124542143809204787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b90698ca14f50330800000000000000
+      internalID: 3676613066689481141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1054
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0889ec0ab25a3ffc0800000000000000
+      internalID: -3462242081717708672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1076
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4841c6b168b4196b0800000000000000
+      internalID: -5291365047825853308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1079
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5cf429eaef7e050800000000000000
+      internalID: 5829908268386862555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1094
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0beece4ea20a2de0800000000000000
+      internalID: -1357269390029034738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1092
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ec31527f38b86a0800000000000000
+      internalID: -6445913344148517350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 913
+        width: 307
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a263f433aa4f9540800000000000000
+      internalID: 5016810574742512297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1041
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac13a6ccc107f8f0800000000000000
+      internalID: -506934454038356820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1052
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f0a8770fb02980800000000000000
+      internalID: -8565636452449192712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1044
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ad082099b53cb00800000000000000
+      internalID: 847621867605908061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1044
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd35eb6414c989d80800000000000000
+      internalID: -8243667313728007205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1044
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f021967b29791910800000000000000
+      internalID: 1808609952945742073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1012
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ba1bc11f67251b0800000000000000
+      internalID: -5669338202965431456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1044
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a45ab1b5865f6bd0800000000000000
+      internalID: -2634792124776033115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1026
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ce9ee1812c405f0800000000000000
+      internalID: -791294225656714175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_31
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1033
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb5a4757705a6550800000000000000
+      internalID: 6154820314251025353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 996
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1d26db0fc16410800000000000000
+      internalID: 1468682603244363145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1010
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad00ea030e1a84930800000000000000
+      internalID: 4127727042746515674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_34
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1014
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2481b4cd9dc6a7280800000000000000
+      internalID: -9044797218660607934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_35
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 988
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874f6ca36252f76e0800000000000000
+      internalID: -1837709276818770824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 919
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9d9779ce9b3f910800000000000000
+      internalID: 1870042696093653423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 955
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb92812a7568b380800000000000000
+      internalID: -8955296283803608085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_38
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 990
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15e0bdde33208830800000000000000
+      internalID: 4071292816057230618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_39
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 984
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eb25da2bd4332a0800000000000000
+      internalID: -6758973185945584079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_40
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 986
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f69f5c2534c7a10800000000000000
+      internalID: 1908474364886085484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 931
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ada4d65c37e9110800000000000000
+      internalID: 1269579436744432184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_42
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 939
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2afbebe14fe17f0800000000000000
+      internalID: -639805684153605430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_43
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 947
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14621c63c9c758d20800000000000000
+      internalID: 3280164913984644673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_44
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 915
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d351cf019ad8142c0800000000000000
+      internalID: -4449119199591393987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_45
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983d2a2d00022b5d0800000000000000
+      internalID: -3048338809870429303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 1241
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f53b18fa53e2c1b0800000000000000
+      internalID: -5637693803665345037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 918
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb5aa6d4cb78880800000000000000
+      internalID: -8608705122007663594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_48
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 901
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5961e9aebe1f43bc0800000000000000
+      internalID: -3804149789665388907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_49
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 912
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a24c7ffc42f7b00800000000000000
+      internalID: 828421332093119068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_50
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 921
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5ba94c4d3c55a50800000000000000
+      internalID: 6509324155032876457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_51
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 903
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80a75fbe52a20450800000000000000
+      internalID: 6053579376960184461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_52
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 901
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5850fac2f7772010800000000000000
+      internalID: 1164030913369102430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_53
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 618
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ea1a8d06b8bfcf0800000000000000
+      internalID: -217426908929741204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_54
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 596
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce08dcdf9e7017e0800000000000000
+      internalID: -1796797026250780989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_55
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 588
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f089e12d4d9cefed0800000000000000
+      internalID: -2378241637309573105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_56
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 604
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e728e3b760b75cbf0800000000000000
+      internalID: -304702132009926018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_57
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 578
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc78a3583875bff0800000000000000
+      internalID: -20978439936246600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_58
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 570
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01561c396cbb934e0800000000000000
+      internalID: -2001362097832631024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_59
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 586
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da460facc2601960800000000000000
+      internalID: 7570659604859079385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_60
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 580
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1932182720b96f10800000000000000
+      internalID: 2263533969952880922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_61
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 580
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c96247b35eb61f40800000000000000
+      internalID: 5698951645250087366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f4015522eb5ecc0800000000000000
+      internalID: -3682328065640214667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_63
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 546
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cbaa974fb6881f0800000000000000
+      internalID: -1042464615978845112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_64
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 545
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3958c0a7d620bc710800000000000000
+      internalID: 1714466752366937491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_65
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 564
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b835146778c04a0800000000000000
+      internalID: -6625772009796957318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_66
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 570
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eabcd7ce4b0ae970800000000000000
+      internalID: 8784846456128060133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7a432b14ac3450800000000000000
+      internalID: 6069906834251742541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 140
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68d3c97646e7b550800000000000000
+      internalID: 6176658604326901867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_69
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 158
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eac056e039776000800000000000000
+      internalID: 29125173530643177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 154
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bee44774141b8a50800000000000000
+      internalID: 6524330563309203121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_71
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 148
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4770640311e81f0800000000000000
+      internalID: -1040875564845009688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_72
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 146
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ee2256a19b1d8e0800000000000000
+      internalID: -1670350463760667024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_73
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 142
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d322c331085a1ee0800000000000000
+      internalID: -1289621581101653034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_74
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 81
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6280b151f45e11410800000000000000
+      internalID: 1446189083181910054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_75
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 130
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b28d472d554d7fa0800000000000000
+      internalID: -5801404478589664592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_76
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 128
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbd34114001b1440800000000000000
+      internalID: 4907533828605860826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_77
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 107
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a47906296ff61070800000000000000
+      internalID: 8076923808810366116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_78
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 68
+        width: 112
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852fc70269eef3230800000000000000
+      internalID: 3620874953986732632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_79
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 128
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc4b0cab3bf67020800000000000000
+      internalID: 2339333290173615280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_80
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 117
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4a290904f380910800000000000000
+      internalID: 1803761197297870017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_81
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 63
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a8498ebd9dedfa0800000000000000
+      internalID: -5773938133719283079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_82
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 98
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9155c48456787990800000000000000
+      internalID: -7388025083324444258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_83
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 108
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea8faddcb5665010800000000000000
+      internalID: 1177240214451489515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_84
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 85
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbce283e44fc25f00800000000000000
+      internalID: 1104172753440926911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_85
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 112
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a4555d814fa170800000000000000
+      internalID: 8191838322488026606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_86
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 92
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa60221e3c322fc0800000000000000
+      internalID: -3521185721360553302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 111
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543074c99de5befd0800000000000000
+      internalID: -2311649695001803963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_88
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3501534978b12b970800000000000000
+      internalID: 8769101693564817491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_89
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 79
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8633041550c2c90800000000000000
+      internalID: -7193368658289923873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_90
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 50
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c347c7e411e08f400800000000000000
+      internalID: 358051637869966396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_91
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 96
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1938aa4e22e39f090800000000000000
+      internalID: -8000294943460785263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_92
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 111
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a048d86e7a6871fd0800000000000000
+      internalID: -2371278623101582326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_93
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 85
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d11ac01684d9b790800000000000000
+      internalID: -7513740831018577451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_94
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 110
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1ec744e0025e720800000000000000
+      internalID: 2874739182796595616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_95
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 109
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368ea2d637c20d830800000000000000
+      internalID: 4093820935544170595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_96
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 112
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a93573d07860700800000000000000
+      internalID: 506240498958310011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_97
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 101
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968e38a63607da1b0800000000000000
+      internalID: -5643731185734260631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_98
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3ed5c194f3b600800000000000000
+      internalID: 482998491985885767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_99
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 111
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f214f456433749130800000000000000
+      internalID: 3572607073286832431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a348e947fbfc6f0800000000000000
+      internalID: -662100112603596237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_101
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 69
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d606f40f2478c00800000000000000
+      internalID: 902763850202377605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_102
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 73
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e3230d69980ac60800000000000000
+      internalID: 7827407433200975503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_103
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 81
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bdd88fb4cfd0cb0800000000000000
+      internalID: -4895979816659068156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_104
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 105
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f275fbdc834fe5c60800000000000000
+      internalID: 7808947328714233647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_105
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63028b41f7bd20b00800000000000000
+      internalID: 793437823225569334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_106
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97d8c94015502570800000000000000
+      internalID: 8439839230138046362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_107
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 77
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0a5691f4d6904f0800000000000000
+      internalID: -862037667168804651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_108
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 93
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bd942988fb837f0800000000000000
+      internalID: -632545154354783423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_109
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 55
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef43ef7f3471347e0800000000000000
+      internalID: -1782555446817704706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391e1c5dd19da1f40800000000000000
+      internalID: 5700107000554316179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_111
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 98
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0056e30a9eba280800000000000000
+      internalID: -9030867753310551859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_112
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ff863718c88ce90800000000000000
+      internalID: -7005194732759875710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_113
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 65
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fb08780fa7f6d00800000000000000
+      internalID: 968127618392047482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_114
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081cb5b796d090ee0800000000000000
+      internalID: -1294488671199968896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_115
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 53
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd8b777dce730490800000000000000
+      internalID: -7781236310228103714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_116
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76151a5265ffb8750800000000000000
+      internalID: 6308416448526111079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_117
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 93
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4157a61a7f4218090800000000000000
+      internalID: -8034099614268623596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_118
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 83
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd851f71f9e13f020800000000000000
+      internalID: 2374275097204709597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_119
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 85
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3c8cd6edb700340800000000000000
+      internalID: 4827994995796001709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_120
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 63
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c002b459dc140b910800000000000000
+      internalID: 1851051798078103564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_121
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 77
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4e0ed1a3b85fe90800000000000000
+      internalID: -6992529764697185030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_122
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 97
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd568a08a8dd639e0800000000000000
+      internalID: -1641881427196221988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_123
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb181a998d979b3e0800000000000000
+      internalID: -2037463385211043397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_124
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63418542c16536510800000000000000
+      internalID: 1541170176359666742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_125
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 83
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c20c4d39e0a70570800000000000000
+      internalID: 8432885750890758849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_126
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cdf1505e75c88f0800000000000000
+      internalID: -536957614418830278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_127
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 73
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ecc9a2c3d05f8e0800000000000000
+      internalID: -1660406335552041357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_128
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 77
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fad9c59277847a0800000000000000
+      internalID: -6392728651521216721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_129
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 60
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29067035a53a62880800000000000000
+      internalID: -8636035627100970862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_130
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 83
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3224a95289ce7cc70800000000000000
+      internalID: 8991415319278535203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_131
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc492bd52da4ba30800000000000000
+      internalID: 4230196328110050550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_132
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fd2d709c752ffd0800000000000000
+      internalID: -2309687137956339893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_133
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 81
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c2f2e6b2e247450800000000000000
+      internalID: 6085539760551439366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_134
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 79
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ec2a7f226a83b0800000000000000
+      internalID: -5509483238081633046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_135
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 61
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc08f05fe926c96c0800000000000000
+      internalID: -4135321922977169203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_136
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 81
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a20dd0a8be2b13c0800000000000000
+      internalID: -4387862041434717532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_137
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f7a4381545b7cb0800000000000000
+      internalID: -4865202263371907242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_138
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 65
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88674b291079b4080800000000000000
+      internalID: -9202095380589414776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_139
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 69
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2d34700eddf72f0800000000000000
+      internalID: -972815040224439646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_140
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e5552b0533bd810800000000000000
+      internalID: 1791081698492243495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_141
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 47
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8009d7314de267d10800000000000000
+      internalID: 2122935762746707976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_142
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 65
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8676ab0fa924160800000000000000
+      internalID: 7008334328852080811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_143
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 61
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520cf8aac1ee98510800000000000000
+      internalID: 1552033353493889061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_144
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 58
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdeef36086270c30800000000000000
+      internalID: 4325468299987971583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Crystal Sprite Sheet_ Inactive and Active States_145
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5966c099040d69a80800000000000000
+      internalID: -8460345874104686955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Purple Crystal Sprite Sheet_ Inactive and Active States_0: 7139659005827561250
+      Purple Crystal Sprite Sheet_ Inactive and Active States_1: -898220350106110899
+      Purple Crystal Sprite Sheet_ Inactive and Active States_10: 8307380916234042815
+      Purple Crystal Sprite Sheet_ Inactive and Active States_100: -662100112603596237
+      Purple Crystal Sprite Sheet_ Inactive and Active States_101: 902763850202377605
+      Purple Crystal Sprite Sheet_ Inactive and Active States_102: 7827407433200975503
+      Purple Crystal Sprite Sheet_ Inactive and Active States_103: -4895979816659068156
+      Purple Crystal Sprite Sheet_ Inactive and Active States_104: 7808947328714233647
+      Purple Crystal Sprite Sheet_ Inactive and Active States_105: 793437823225569334
+      Purple Crystal Sprite Sheet_ Inactive and Active States_106: 8439839230138046362
+      Purple Crystal Sprite Sheet_ Inactive and Active States_107: -862037667168804651
+      Purple Crystal Sprite Sheet_ Inactive and Active States_108: -632545154354783423
+      Purple Crystal Sprite Sheet_ Inactive and Active States_109: -1782555446817704706
+      Purple Crystal Sprite Sheet_ Inactive and Active States_11: 4815243379020589760
+      Purple Crystal Sprite Sheet_ Inactive and Active States_110: 5700107000554316179
+      Purple Crystal Sprite Sheet_ Inactive and Active States_111: -9030867753310551859
+      Purple Crystal Sprite Sheet_ Inactive and Active States_112: -7005194732759875710
+      Purple Crystal Sprite Sheet_ Inactive and Active States_113: 968127618392047482
+      Purple Crystal Sprite Sheet_ Inactive and Active States_114: -1294488671199968896
+      Purple Crystal Sprite Sheet_ Inactive and Active States_115: -7781236310228103714
+      Purple Crystal Sprite Sheet_ Inactive and Active States_116: 6308416448526111079
+      Purple Crystal Sprite Sheet_ Inactive and Active States_117: -8034099614268623596
+      Purple Crystal Sprite Sheet_ Inactive and Active States_118: 2374275097204709597
+      Purple Crystal Sprite Sheet_ Inactive and Active States_119: 4827994995796001709
+      Purple Crystal Sprite Sheet_ Inactive and Active States_12: -6738725475397887637
+      Purple Crystal Sprite Sheet_ Inactive and Active States_120: 1851051798078103564
+      Purple Crystal Sprite Sheet_ Inactive and Active States_121: -6992529764697185030
+      Purple Crystal Sprite Sheet_ Inactive and Active States_122: -1641881427196221988
+      Purple Crystal Sprite Sheet_ Inactive and Active States_123: -2037463385211043397
+      Purple Crystal Sprite Sheet_ Inactive and Active States_124: 1541170176359666742
+      Purple Crystal Sprite Sheet_ Inactive and Active States_125: 8432885750890758849
+      Purple Crystal Sprite Sheet_ Inactive and Active States_126: -536957614418830278
+      Purple Crystal Sprite Sheet_ Inactive and Active States_127: -1660406335552041357
+      Purple Crystal Sprite Sheet_ Inactive and Active States_128: -6392728651521216721
+      Purple Crystal Sprite Sheet_ Inactive and Active States_129: -8636035627100970862
+      Purple Crystal Sprite Sheet_ Inactive and Active States_13: 4211263190772149409
+      Purple Crystal Sprite Sheet_ Inactive and Active States_130: 8991415319278535203
+      Purple Crystal Sprite Sheet_ Inactive and Active States_131: 4230196328110050550
+      Purple Crystal Sprite Sheet_ Inactive and Active States_132: -2309687137956339893
+      Purple Crystal Sprite Sheet_ Inactive and Active States_133: 6085539760551439366
+      Purple Crystal Sprite Sheet_ Inactive and Active States_134: -5509483238081633046
+      Purple Crystal Sprite Sheet_ Inactive and Active States_135: -4135321922977169203
+      Purple Crystal Sprite Sheet_ Inactive and Active States_136: -4387862041434717532
+      Purple Crystal Sprite Sheet_ Inactive and Active States_137: -4865202263371907242
+      Purple Crystal Sprite Sheet_ Inactive and Active States_138: -9202095380589414776
+      Purple Crystal Sprite Sheet_ Inactive and Active States_139: -972815040224439646
+      Purple Crystal Sprite Sheet_ Inactive and Active States_14: 8141042072464068227
+      Purple Crystal Sprite Sheet_ Inactive and Active States_140: 1791081698492243495
+      Purple Crystal Sprite Sheet_ Inactive and Active States_141: 2122935762746707976
+      Purple Crystal Sprite Sheet_ Inactive and Active States_142: 7008334328852080811
+      Purple Crystal Sprite Sheet_ Inactive and Active States_143: 1552033353493889061
+      Purple Crystal Sprite Sheet_ Inactive and Active States_144: 4325468299987971583
+      Purple Crystal Sprite Sheet_ Inactive and Active States_145: -8460345874104686955
+      Purple Crystal Sprite Sheet_ Inactive and Active States_15: 4124542143809204787
+      Purple Crystal Sprite Sheet_ Inactive and Active States_16: 3676613066689481141
+      Purple Crystal Sprite Sheet_ Inactive and Active States_17: -3462242081717708672
+      Purple Crystal Sprite Sheet_ Inactive and Active States_18: -5291365047825853308
+      Purple Crystal Sprite Sheet_ Inactive and Active States_19: 5829908268386862555
+      Purple Crystal Sprite Sheet_ Inactive and Active States_2: 3003310272232931132
+      Purple Crystal Sprite Sheet_ Inactive and Active States_20: -1357269390029034738
+      Purple Crystal Sprite Sheet_ Inactive and Active States_21: -6445913344148517350
+      Purple Crystal Sprite Sheet_ Inactive and Active States_22: 5016810574742512297
+      Purple Crystal Sprite Sheet_ Inactive and Active States_23: -506934454038356820
+      Purple Crystal Sprite Sheet_ Inactive and Active States_24: -8565636452449192712
+      Purple Crystal Sprite Sheet_ Inactive and Active States_25: 847621867605908061
+      Purple Crystal Sprite Sheet_ Inactive and Active States_26: -8243667313728007205
+      Purple Crystal Sprite Sheet_ Inactive and Active States_27: 1808609952945742073
+      Purple Crystal Sprite Sheet_ Inactive and Active States_28: -5669338202965431456
+      Purple Crystal Sprite Sheet_ Inactive and Active States_29: -2634792124776033115
+      Purple Crystal Sprite Sheet_ Inactive and Active States_3: 1019112232156861248
+      Purple Crystal Sprite Sheet_ Inactive and Active States_30: -791294225656714175
+      Purple Crystal Sprite Sheet_ Inactive and Active States_31: 6154820314251025353
+      Purple Crystal Sprite Sheet_ Inactive and Active States_32: 1468682603244363145
+      Purple Crystal Sprite Sheet_ Inactive and Active States_33: 4127727042746515674
+      Purple Crystal Sprite Sheet_ Inactive and Active States_34: -9044797218660607934
+      Purple Crystal Sprite Sheet_ Inactive and Active States_35: -1837709276818770824
+      Purple Crystal Sprite Sheet_ Inactive and Active States_36: 1870042696093653423
+      Purple Crystal Sprite Sheet_ Inactive and Active States_37: -8955296283803608085
+      Purple Crystal Sprite Sheet_ Inactive and Active States_38: 4071292816057230618
+      Purple Crystal Sprite Sheet_ Inactive and Active States_39: -6758973185945584079
+      Purple Crystal Sprite Sheet_ Inactive and Active States_4: -2566774046613673477
+      Purple Crystal Sprite Sheet_ Inactive and Active States_40: 1908474364886085484
+      Purple Crystal Sprite Sheet_ Inactive and Active States_41: 1269579436744432184
+      Purple Crystal Sprite Sheet_ Inactive and Active States_42: -639805684153605430
+      Purple Crystal Sprite Sheet_ Inactive and Active States_43: 3280164913984644673
+      Purple Crystal Sprite Sheet_ Inactive and Active States_44: -4449119199591393987
+      Purple Crystal Sprite Sheet_ Inactive and Active States_45: -3048338809870429303
+      Purple Crystal Sprite Sheet_ Inactive and Active States_46: -5637693803665345037
+      Purple Crystal Sprite Sheet_ Inactive and Active States_47: -8608705122007663594
+      Purple Crystal Sprite Sheet_ Inactive and Active States_48: -3804149789665388907
+      Purple Crystal Sprite Sheet_ Inactive and Active States_49: 828421332093119068
+      Purple Crystal Sprite Sheet_ Inactive and Active States_5: -6408025606752939986
+      Purple Crystal Sprite Sheet_ Inactive and Active States_50: 6509324155032876457
+      Purple Crystal Sprite Sheet_ Inactive and Active States_51: 6053579376960184461
+      Purple Crystal Sprite Sheet_ Inactive and Active States_52: 1164030913369102430
+      Purple Crystal Sprite Sheet_ Inactive and Active States_53: -217426908929741204
+      Purple Crystal Sprite Sheet_ Inactive and Active States_54: -1796797026250780989
+      Purple Crystal Sprite Sheet_ Inactive and Active States_55: -2378241637309573105
+      Purple Crystal Sprite Sheet_ Inactive and Active States_56: -304702132009926018
+      Purple Crystal Sprite Sheet_ Inactive and Active States_57: -20978439936246600
+      Purple Crystal Sprite Sheet_ Inactive and Active States_58: -2001362097832631024
+      Purple Crystal Sprite Sheet_ Inactive and Active States_59: 7570659604859079385
+      Purple Crystal Sprite Sheet_ Inactive and Active States_6: 787729761604320184
+      Purple Crystal Sprite Sheet_ Inactive and Active States_60: 2263533969952880922
+      Purple Crystal Sprite Sheet_ Inactive and Active States_61: 5698951645250087366
+      Purple Crystal Sprite Sheet_ Inactive and Active States_62: -3682328065640214667
+      Purple Crystal Sprite Sheet_ Inactive and Active States_63: -1042464615978845112
+      Purple Crystal Sprite Sheet_ Inactive and Active States_64: 1714466752366937491
+      Purple Crystal Sprite Sheet_ Inactive and Active States_65: -6625772009796957318
+      Purple Crystal Sprite Sheet_ Inactive and Active States_66: 8784846456128060133
+      Purple Crystal Sprite Sheet_ Inactive and Active States_67: 6069906834251742541
+      Purple Crystal Sprite Sheet_ Inactive and Active States_68: 6176658604326901867
+      Purple Crystal Sprite Sheet_ Inactive and Active States_69: 29125173530643177
+      Purple Crystal Sprite Sheet_ Inactive and Active States_7: 5753891234666494684
+      Purple Crystal Sprite Sheet_ Inactive and Active States_70: 6524330563309203121
+      Purple Crystal Sprite Sheet_ Inactive and Active States_71: -1040875564845009688
+      Purple Crystal Sprite Sheet_ Inactive and Active States_72: -1670350463760667024
+      Purple Crystal Sprite Sheet_ Inactive and Active States_73: -1289621581101653034
+      Purple Crystal Sprite Sheet_ Inactive and Active States_74: 1446189083181910054
+      Purple Crystal Sprite Sheet_ Inactive and Active States_75: -5801404478589664592
+      Purple Crystal Sprite Sheet_ Inactive and Active States_76: 4907533828605860826
+      Purple Crystal Sprite Sheet_ Inactive and Active States_77: 8076923808810366116
+      Purple Crystal Sprite Sheet_ Inactive and Active States_78: 3620874953986732632
+      Purple Crystal Sprite Sheet_ Inactive and Active States_79: 2339333290173615280
+      Purple Crystal Sprite Sheet_ Inactive and Active States_8: -947295433642618334
+      Purple Crystal Sprite Sheet_ Inactive and Active States_80: 1803761197297870017
+      Purple Crystal Sprite Sheet_ Inactive and Active States_81: -5773938133719283079
+      Purple Crystal Sprite Sheet_ Inactive and Active States_82: -7388025083324444258
+      Purple Crystal Sprite Sheet_ Inactive and Active States_83: 1177240214451489515
+      Purple Crystal Sprite Sheet_ Inactive and Active States_84: 1104172753440926911
+      Purple Crystal Sprite Sheet_ Inactive and Active States_85: 8191838322488026606
+      Purple Crystal Sprite Sheet_ Inactive and Active States_86: -3521185721360553302
+      Purple Crystal Sprite Sheet_ Inactive and Active States_87: -2311649695001803963
+      Purple Crystal Sprite Sheet_ Inactive and Active States_88: 8769101693564817491
+      Purple Crystal Sprite Sheet_ Inactive and Active States_89: -7193368658289923873
+      Purple Crystal Sprite Sheet_ Inactive and Active States_9: -7386922825137448150
+      Purple Crystal Sprite Sheet_ Inactive and Active States_90: 358051637869966396
+      Purple Crystal Sprite Sheet_ Inactive and Active States_91: -8000294943460785263
+      Purple Crystal Sprite Sheet_ Inactive and Active States_92: -2371278623101582326
+      Purple Crystal Sprite Sheet_ Inactive and Active States_93: -7513740831018577451
+      Purple Crystal Sprite Sheet_ Inactive and Active States_94: 2874739182796595616
+      Purple Crystal Sprite Sheet_ Inactive and Active States_95: 4093820935544170595
+      Purple Crystal Sprite Sheet_ Inactive and Active States_96: 506240498958310011
+      Purple Crystal Sprite Sheet_ Inactive and Active States_97: -5643731185734260631
+      Purple Crystal Sprite Sheet_ Inactive and Active States_98: 482998491985885767
+      Purple Crystal Sprite Sheet_ Inactive and Active States_99: 3572607073286832431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

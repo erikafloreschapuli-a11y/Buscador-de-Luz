@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: a290583f22810414ab678b3bb4038c2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8690185811348725994
+    second: kaes-walk-trimmed_0
+  - first:
+      213: -1618739714702391682
+    second: kaes-walk-trimmed_1
+  - first:
+      213: -4565716591288816818
+    second: kaes-walk-trimmed_2
+  - first:
+      213: -829775600294043316
+    second: kaes-walk-trimmed_3
+  - first:
+      213: -5678892266015147930
+    second: kaes-walk-trimmed_4
+  - first:
+      213: 7077341106699118501
+    second: kaes-walk-trimmed_5
+  - first:
+      213: -5858159134403388100
+    second: kaes-walk-trimmed_6
+  - first:
+      213: 979880178689048741
+    second: kaes-walk-trimmed_7
+  - first:
+      213: -595835421699477556
+    second: kaes-walk-trimmed_8
+  - first:
+      213: 7590120669488511442
+    second: kaes-walk-trimmed_9
+  - first:
+      213: 528238975853807683
+    second: kaes-walk-trimmed_10
+  - first:
+      213: 1426459647395382867
+    second: kaes-walk-trimmed_11
+  - first:
+      213: 5096025161344874495
+    second: kaes-walk-trimmed_12
+  - first:
+      213: -2524043746377784821
+    second: kaes-walk-trimmed_13
+  - first:
+      213: 2915875111629474100
+    second: kaes-walk-trimmed_14
+  - first:
+      213: -6102942494288041540
+    second: kaes-walk-trimmed_15
+  - first:
+      213: 9164183130143739610
+    second: kaes-walk-trimmed_16
+  - first:
+      213: -390349566020406557
+    second: kaes-walk-trimmed_17
+  - first:
+      213: -7895460376279677605
+    second: kaes-walk-trimmed_18
+  - first:
+      213: 6237650639351044750
+    second: kaes-walk-trimmed_19
+  - first:
+      213: 2083074582862183490
+    second: kaes-walk-trimmed_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1085
+        width: 62
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f5b621c02466780800000000000000
+      internalID: -8690185811348725994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1085
+        width: 71
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76c8515ec41989e0800000000000000
+      internalID: -1618739714702391682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1083
+        width: 84
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b6f1f43f053a0c0800000000000000
+      internalID: -4565716591288816818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1085
+        width: 76
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ef25ec7b0c74f0800000000000000
+      internalID: -829775600294043316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_4
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1084
+        width: 61
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668347672958031b0800000000000000
+      internalID: -5678892266015147930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 829
+        width: 57
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7221b3d34c73260800000000000000
+      internalID: 7077341106699118501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 829
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d1d2c1e43a3bea0800000000000000
+      internalID: -5858159134403388100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 829
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a00535b4db399d00800000000000000
+      internalID: 979880178689048741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 829
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfe10147da2bb7f0800000000000000
+      internalID: -595835421699477556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_9
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 829
+        width: 64
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d97633e886855960800000000000000
+      internalID: 7590120669488511442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 573
+        width: 57
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484840cc8ea45700800000000000000
+      internalID: 528238975853807683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 573
+        width: 64
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3564e69dd7dcbc310800000000000000
+      internalID: 1426459647395382867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 572
+        width: 83
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7f96462e7b8b640800000000000000
+      internalID: 5096025161344874495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_13
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 573
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b022b9be59bc8fcd0800000000000000
+      internalID: -2524043746377784821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_14
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 573
+        width: 60
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439c31e07f4477820800000000000000
+      internalID: 2915875111629474100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 317
+        width: 57
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9235fd22efd4ba0800000000000000
+      internalID: -6102942494288041540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 317
+        width: 65
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade48d0c008bd2f70800000000000000
+      internalID: 9164183130143739610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_17
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 317
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2302b4323359af0800000000000000
+      internalID: -390349566020406557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_18
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 317
+        width: 94
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b558da5ae90bd6290800000000000000
+      internalID: -7895460376279677605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_19
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 317
+        width: 64
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ad18f3536909650800000000000000
+      internalID: 6237650639351044750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaes-walk-trimmed_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 61
+        width: 58
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c3528eb4198ec10800000000000000
+      internalID: 2083074582862183490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kaes-walk-trimmed_0: -8690185811348725994
+      kaes-walk-trimmed_1: -1618739714702391682
+      kaes-walk-trimmed_10: 528238975853807683
+      kaes-walk-trimmed_11: 1426459647395382867
+      kaes-walk-trimmed_12: 5096025161344874495
+      kaes-walk-trimmed_13: -2524043746377784821
+      kaes-walk-trimmed_14: 2915875111629474100
+      kaes-walk-trimmed_15: -6102942494288041540
+      kaes-walk-trimmed_16: 9164183130143739610
+      kaes-walk-trimmed_17: -390349566020406557
+      kaes-walk-trimmed_18: -7895460376279677605
+      kaes-walk-trimmed_19: 6237650639351044750
+      kaes-walk-trimmed_2: -4565716591288816818
+      kaes-walk-trimmed_20: 2083074582862183490
+      kaes-walk-trimmed_3: -829775600294043316
+      kaes-walk-trimmed_4: -5678892266015147930
+      kaes-walk-trimmed_5: 7077341106699118501
+      kaes-walk-trimmed_6: -5858159134403388100
+      kaes-walk-trimmed_7: 979880178689048741
+      kaes-walk-trimmed_8: -595835421699477556
+      kaes-walk-trimmed_9: 7590120669488511442
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

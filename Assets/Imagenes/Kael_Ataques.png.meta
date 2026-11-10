@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: f4e4e20b52da19249bec16fc34a9d55b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8547749297523353579
+    second: Kael_Ataques_0
+  - first:
+      213: -1308846848217465842
+    second: Kael_Ataques_1
+  - first:
+      213: -2611667913886481762
+    second: Kael_Ataques_2
+  - first:
+      213: 2018379575704277943
+    second: Kael_Ataques_3
+  - first:
+      213: -7689600049435500210
+    second: Kael_Ataques_4
+  - first:
+      213: 6293941789794794666
+    second: Kael_Ataques_5
+  - first:
+      213: -5652570219000469827
+    second: Kael_Ataques_6
+  - first:
+      213: -2102670259243909358
+    second: Kael_Ataques_7
+  - first:
+      213: -5912829984987867190
+    second: Kael_Ataques_8
+  - first:
+      213: 5698457369246562615
+    second: Kael_Ataques_9
+  - first:
+      213: 652855945430044039
+    second: Kael_Ataques_10
+  - first:
+      213: 9120217216107092731
+    second: Kael_Ataques_11
+  - first:
+      213: -892722245266897152
+    second: Kael_Ataques_12
+  - first:
+      213: -3365269511927581882
+    second: Kael_Ataques_13
+  - first:
+      213: -7938966188980153966
+    second: Kael_Ataques_14
+  - first:
+      213: -5681881255075443527
+    second: Kael_Ataques_15
+  - first:
+      213: -1980314282479918073
+    second: Kael_Ataques_16
+  - first:
+      213: 3848724348477739924
+    second: Kael_Ataques_17
+  - first:
+      213: 1397964002284296715
+    second: Kael_Ataques_18
+  - first:
+      213: -6509459410749416781
+    second: Kael_Ataques_19
+  - first:
+      213: -8482581925804133121
+    second: Kael_Ataques_20
+  - first:
+      213: 2299573565501840163
+    second: Kael_Ataques_21
+  - first:
+      213: 7002675893936431457
+    second: Kael_Ataques_22
+  - first:
+      213: -1972707609344881684
+    second: Kael_Ataques_23
+  - first:
+      213: -7872320557517585704
+    second: Kael_Ataques_24
+  - first:
+      213: 4686760653256030858
+    second: Kael_Ataques_25
+  - first:
+      213: 8721474793420119694
+    second: Kael_Ataques_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kael_Ataques_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 857
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be769fbb2b4bf9670800000000000000
+      internalID: 8547749297523353579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 858
+        width: 91
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cbb92e9ba06dde0800000000000000
+      internalID: -1308846848217465842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 857
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92c2899edd71cbd0800000000000000
+      internalID: -2611667913886481762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 858
+        width: 131
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3d1cfb789b20c10800000000000000
+      internalID: 2018379575704277943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_4
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 857
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41229c0f7d094590800000000000000
+      internalID: -7689600049435500210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 655
+        width: 82
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac74b906b2985750800000000000000
+      internalID: 6293941789794794666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 655
+        width: 103
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6668c95590e81b0800000000000000
+      internalID: -5652570219000469827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 655
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ffcf52a80d1d2e0800000000000000
+      internalID: -2102670259243909358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 655
+        width: 85
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac71587c47861fda0800000000000000
+      internalID: -5912829984987867190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_9
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 654
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739f5ad19ccf41f40800000000000000
+      internalID: 5698457369246562615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_10
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 452
+        width: 171
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d0cdcf5096f0900800000000000000
+      internalID: 652855945430044039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_11
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 588
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa1770bc35819e70800000000000000
+      internalID: 9120217216107092731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_12
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 451
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00707c709d96c93f0800000000000000
+      internalID: -892722245266897152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 451
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643ba1875392c41d0800000000000000
+      internalID: -3365269511927581882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 451
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2915006405023d190800000000000000
+      internalID: -7938966188980153966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 452
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc07473a17e521b0800000000000000
+      internalID: -5681881255075443527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 529
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704e629f6a28484e0800000000000000
+      internalID: -1980314282479918073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 247
+        width: 82
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493996d476a696530800000000000000
+      internalID: 3848724348477739924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 247
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a50f47ad0966310800000000000000
+      internalID: 1397964002284296715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 247
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba157e8721c9a5a0800000000000000
+      internalID: -6509459410749416781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_20
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 248
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4bb4e5ea0d74a80800000000000000
+      internalID: -8482581925804133121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_21
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 273
+        width: 122
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b9d9269f9b9ef10800000000000000
+      internalID: 2299573565501840163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 43
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161a54faf908e2160800000000000000
+      internalID: 7002675893936431457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 43
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebc94391e88f94e0800000000000000
+      internalID: -1972707609344881684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 113
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c82b8926efb290800000000000000
+      internalID: -7872320557517585704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 44
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a7a9c8bf7ba0140800000000000000
+      internalID: 4686760653256030858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael_Ataques_26
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 44
+        width: 126
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e5453cd17e80970800000000000000
+      internalID: 8721474793420119694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kael_Ataques_0: 8547749297523353579
+      Kael_Ataques_1: -1308846848217465842
+      Kael_Ataques_10: 652855945430044039
+      Kael_Ataques_11: 9120217216107092731
+      Kael_Ataques_12: -892722245266897152
+      Kael_Ataques_13: -3365269511927581882
+      Kael_Ataques_14: -7938966188980153966
+      Kael_Ataques_15: -5681881255075443527
+      Kael_Ataques_16: -1980314282479918073
+      Kael_Ataques_17: 3848724348477739924
+      Kael_Ataques_18: 1397964002284296715
+      Kael_Ataques_19: -6509459410749416781
+      Kael_Ataques_2: -2611667913886481762
+      Kael_Ataques_20: -8482581925804133121
+      Kael_Ataques_21: 2299573565501840163
+      Kael_Ataques_22: 7002675893936431457
+      Kael_Ataques_23: -1972707609344881684
+      Kael_Ataques_24: -7872320557517585704
+      Kael_Ataques_25: 4686760653256030858
+      Kael_Ataques_26: 8721474793420119694
+      Kael_Ataques_3: 2018379575704277943
+      Kael_Ataques_4: -7689600049435500210
+      Kael_Ataques_5: 6293941789794794666
+      Kael_Ataques_6: -5652570219000469827
+      Kael_Ataques_7: -2102670259243909358
+      Kael_Ataques_8: -5912829984987867190
+      Kael_Ataques_9: 5698457369246562615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

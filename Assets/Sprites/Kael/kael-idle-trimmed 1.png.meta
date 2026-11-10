@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 0e7a54cc9b37cf94499d2b3ab02d8af8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5375332347182867117
+    second: kael-idle-trimmed_0
+  - first:
+      213: 1283798840972380671
+    second: kael-idle-trimmed_1
+  - first:
+      213: 2032584146666646506
+    second: kael-idle-trimmed_2
+  - first:
+      213: 6770698441395699118
+    second: kael-idle-trimmed_3
+  - first:
+      213: 4353938168758928406
+    second: kael-idle-trimmed_4
+  - first:
+      213: -5320637394386376631
+    second: kael-idle-trimmed_5
+  - first:
+      213: 8604769347946278993
+    second: kael-idle-trimmed_6
+  - first:
+      213: -7233180159466106730
+    second: kael-idle-trimmed_7
+  - first:
+      213: -5663934955747071155
+    second: kael-idle-trimmed_8
+  - first:
+      213: -385785624552714904
+    second: kael-idle-trimmed_9
+  - first:
+      213: -687531510183993857
+    second: kael-idle-trimmed_10
+  - first:
+      213: -982780548422919042
+    second: kael-idle-trimmed_11
+  - first:
+      213: -6366485820298607090
+    second: kael-idle-trimmed_12
+  - first:
+      213: 45184590574027603
+    second: kael-idle-trimmed_13
+  - first:
+      213: -7219091395726892907
+    second: kael-idle-trimmed_14
+  - first:
+      213: 4815353323721735166
+    second: kael-idle-trimmed_15
+  - first:
+      213: -847393594394853692
+    second: kael-idle-trimmed_16
+  - first:
+      213: -8656120050716061844
+    second: kael-idle-trimmed_17
+  - first:
+      213: -9008343753670302400
+    second: kael-idle-trimmed_18
+  - first:
+      213: 8660200226685563866
+    second: kael-idle-trimmed_19
+  - first:
+      213: -5000576501678171064
+    second: kael-idle-trimmed_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kael-idle-trimmed_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1081
+        width: 76
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9f70c5bbf665b0800000000000000
+      internalID: -5375332347182867117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1082
+        width: 76
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff987377e38f0d110800000000000000
+      internalID: 1283798840972380671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1082
+        width: 76
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebe7262380353c10800000000000000
+      internalID: 2032584146666646506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1081
+        width: 76
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead7ea81c5a56fd50800000000000000
+      internalID: 6770698441395699118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1081
+        width: 75
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61404e242bb4c6c30800000000000000
+      internalID: 4353938168758928406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 825
+        width: 75
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948a0f0da7c4926b0800000000000000
+      internalID: -5320637394386376631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 825
+        width: 75
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150f186c1284a6770800000000000000
+      internalID: 8604769347946278993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 826
+        width: 75
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6909e9ec7f49e9b90800000000000000
+      internalID: -7233180159466106730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_8
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 826
+        width: 76
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b27c3aa29a561b0800000000000000
+      internalID: -5663934955747071155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_9
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 825
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d4519b40a65aaf0800000000000000
+      internalID: -385785624552714904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 570
+        width: 80
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd5893fbb56576f0800000000000000
+      internalID: -687531510183993857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 570
+        width: 82
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c96175c467c52f0800000000000000
+      internalID: -982780548422919042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_12
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 570
+        width: 82
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e064a85a0e2b5a7a0800000000000000
+      internalID: -6366485820298607090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_13
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 570
+        width: 82
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3538c7e452780a000800000000000000
+      internalID: 45184590574027603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_14
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 570
+        width: 82
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590ae9cbf92a0db90800000000000000
+      internalID: -7219091395726892907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 314
+        width: 82
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb3e68c55293d240800000000000000
+      internalID: 4815353323721735166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 313
+        width: 78
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce372df3047d34f0800000000000000
+      internalID: -847393594394853692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_17
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 314
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fceeb0da84fd780800000000000000
+      internalID: -8656120050716061844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_18
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 314
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0456fd3951febf280800000000000000
+      internalID: -9008343753670302400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_19
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 314
+        width: 76
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3b953f8363f2870800000000000000
+      internalID: 8660200226685563866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kael-idle-trimmed_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 58
+        width: 76
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c9e497a226a9ab0800000000000000
+      internalID: -5000576501678171064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kael-idle-trimmed_0: -5375332347182867117
+      kael-idle-trimmed_1: 1283798840972380671
+      kael-idle-trimmed_10: -687531510183993857
+      kael-idle-trimmed_11: -982780548422919042
+      kael-idle-trimmed_12: -6366485820298607090
+      kael-idle-trimmed_13: 45184590574027603
+      kael-idle-trimmed_14: -7219091395726892907
+      kael-idle-trimmed_15: 4815353323721735166
+      kael-idle-trimmed_16: -847393594394853692
+      kael-idle-trimmed_17: -8656120050716061844
+      kael-idle-trimmed_18: -9008343753670302400
+      kael-idle-trimmed_19: 8660200226685563866
+      kael-idle-trimmed_2: 2032584146666646506
+      kael-idle-trimmed_20: -5000576501678171064
+      kael-idle-trimmed_3: 6770698441395699118
+      kael-idle-trimmed_4: 4353938168758928406
+      kael-idle-trimmed_5: -5320637394386376631
+      kael-idle-trimmed_6: 8604769347946278993
+      kael-idle-trimmed_7: -7233180159466106730
+      kael-idle-trimmed_8: -5663934955747071155
+      kael-idle-trimmed_9: -385785624552714904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
