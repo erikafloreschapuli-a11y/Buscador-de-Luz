@@ -131,7 +131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RastroLava
   duracion: 5
-  "da\xF1o": 1
+  "daño": 1
 --- !u!65 &3916582822783136882
 BoxCollider:
   m_ObjectHideFlags: 0

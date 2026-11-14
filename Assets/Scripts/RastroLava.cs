@@ -16,7 +16,6 @@ public class RastroLava : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            Debug.Log("Kael está tocando el fuego");
             timerDaño -= Time.deltaTime;
             if (timerDaño <= 0)
             {

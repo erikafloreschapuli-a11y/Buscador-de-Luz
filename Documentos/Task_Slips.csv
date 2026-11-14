@@ -1,0 +1,21 @@
+﻿ID;Título;Descripción;Estimación (h);Responsable;Estado
+TS-01;Movimiento y salto;Implementar A/D, salto y doble salto con animaciones;8;Programación;Hecho
+TS-02;Combate;Ataque J con dos animaciones y detección en AttackPoint;6;Programación;Hecho
+TS-03;Vida y HUD;5 corazones con medio corazón y daño con i-frames;6;Programación;Hecho
+TS-04;Checkpoints;Guardado en PlayerPrefs y respawn;4;Programación;Hecho
+TS-05;Game Over y pausa;Paneles, botones y bloqueo de pausa;5;Programación;Hecho
+TS-06;Golemita;Patrulla, persecución, ataque, rastro y drop;8;Programación;Hecho
+TS-07;Chispa;Grupos de 3, picada y explosión;5;Programación;Hecho
+TS-08;Molrak;3 fases, núcleo expuesto y drop del Fragmento;12;Programación;Hecho
+TS-09;Pulso de Calor;Onda, empuje, rotura de muros y cooldown;6;Programación;Hecho
+TS-10;Dash y sprint;Invencibilidad, recarga y multiplicador;4;Programación;Hecho
+TS-11;Trampas de Zona 2;Puentes, válvulas, lluvia de rocas;8;Programación;Hecho
+TS-12;Explosiones de magma;Aviso, daño en área y sonido;3;Programación;Hecho
+TS-13;Audio;AudioManager automático y música por escena;4;Programación;Hecho
+TS-14;Menús y opciones;Menú, pausa, opciones, créditos, mejoras y mapa;6;Programación;Hecho
+TS-15;Sprites de prefabs;Asignar arte y ajustar colliders;3;Arte;Pendiente
+TS-16;Recorrido del nivel;Tilemaps de las 3 zonas y límites de cámara;8;Nivel;Pendiente
+TS-17;Arena del jefe;Plataforma, puerta y zona de combate;3;Nivel;Pendiente
+TS-18;Música y SFX;Importar clips y asignarlos;2;Audio;Pendiente
+TS-19;Build de Windows;Configurar player y generar .exe;2;Build;Pendiente
+TS-20;Documentos y presentación;GDD, Excel y guion;5;Producción;En curso

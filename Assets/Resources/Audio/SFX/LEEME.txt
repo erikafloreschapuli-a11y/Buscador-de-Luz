@@ -1,0 +1,39 @@
+EFECTOS DE SONIDO DE BUSCADOR DE LUZ
+====================================
+
+Los SFX no se cargan automáticamente: hay que arrastrarlos a los campos
+correspondientes en el Inspector de cada script. Nombres sugeridos:
+
+  S03_Lava.ogg          -> RastroLava / Geiser / lava (DañoContacto no tiene audio propio)
+  S04_Golem.ogg         -> impacto y muerte de Golemita
+  S05_Chispa.ogg        -> impacto y muerte de Chispa Voladora
+  S24_Checkpoint.ogg    -> Checkpoint.sonidoActivar
+  S25_Fragmento.ogg     -> PanelFragmento.sonidoFragmento y FragmentoAethon.sonidoRecoger
+  S26_Cristal.ogg       -> ItemRecolectable.sonidoRecoger
+  S27_Muro.ogg          -> MuroRompible.sonidoRotura
+  S28_Valvula.ogg       -> Valvula.sonidoActivar
+  S29_Puzzle_OK.ogg     -> PuzzleValvulas.sonidoCorrecto / sonidoResuelto
+  S30_Puzzle_Error.ogg  -> PuzzleValvulas.sonidoError
+  S31_Puente.ogg        -> PuenteDerrumbable.sonidoCrujido / sonidoCaida
+  S32_Explosion.ogg     -> ExplosionMagma.sonidoExplosion
+  S33_Aviso.ogg         -> ExplosionMagma.sonidoAviso
+  S34_Puerta.ogg        -> PuertaJefe.sonidoAbrir / sonidoCerrar
+  S35_Dash.ogg          -> PlayerDash.sonidoDash
+  S36_Pulso.ogg         -> PulsoDeCalor.sonidoPulso
+  S37_GameOver.ogg      -> GameOverManager.sonidoGameOver
+  S38_Molrak.ogg        -> MolrakHealth.sonidoMuerte
+
+Formato recomendado: .wav o .ogg, mono, 44.1 kHz.
+Todos los campos son OPCIONALES: si quedan vacíos, el juego funciona sin sonido.
+
+Dónde se asignan (resumen):
+  - ItemRecolectable        -> prefabs CristalPequeno / CristalGrande / CristalMejora
+  - Checkpoint              -> prefabs Checkpoint y el objeto "Christal" de la escena
+  - MuroRompible            -> prefabs MuroRompible
+  - Valvula / PuzzleValvulas-> prefabs Valvula y el objeto del puzzle
+  - PuenteDerrumbable       -> prefabs PuenteDerrumbable
+  - PuertaJefe              -> prefabs PuertaJefe
+  - LluviaRocas             -> la roca no lleva audio; usa RocaVolcanica como efecto
+  - ExplosionMagma          -> el objeto "Explosiones" de la escena
+  - PlayerDash / PulsoDeCalor -> se añaden solos al Player al iniciar el juego
+  - PanelFragmento          -> objeto "PanelFragmento" (se crea solo si falta)

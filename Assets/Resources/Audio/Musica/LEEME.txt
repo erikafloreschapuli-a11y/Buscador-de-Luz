@@ -1,0 +1,24 @@
+MÚSICA DE BUSCADOR DE LUZ
+=========================
+
+Coloca aquí los archivos de música con EXACTAMENTE estos nombres:
+
+  MainMenu.ogg   -> música del menú principal
+  Ignar.ogg      -> música del nivel (planeta Ignar)
+  Tema.ogg       -> (opcional) música de reserva si falta alguna de las dos
+
+El AudioManager se crea solo al arrancar el juego y busca estos archivos
+automáticamente. No hay que arrastrarlos a ningún objeto.
+
+Formatos recomendados: .ogg (mejor para música) o .wav / .mp3.
+Consejo: activa "Loop" en el importador de cada clip si quieres que suene en bucle
+(el AudioManager ya fuerza el bucle en reproducción).
+
+Si prefieres enlazar la música a mano:
+  - Selecciona el objeto "AudioManager" mientras el juego corre, o crea uno en la escena.
+  - Arrastra el clip al campo "Musica Inicio".
+  - Si el campo está vacío, se carga de esta carpeta.
+
+Dónde suena cada tema (guion):
+  MainMenu -> M02 "Forjas Dormidas" (ambiente tranquilo, percusión lejana)
+  Ignar    -> M09 "El Núcleo" (tensión creciente, coro lejano en la fase de Molrak)

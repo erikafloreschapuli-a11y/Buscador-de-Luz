@@ -1,0 +1,60 @@
+﻿ID;Requerimiento;Sprint;Estado;Responsable;Notas
+RF-01;Movimiento horizontal con A/D o flechas;1;Hecho;Programación;PlayerMovement
+RF-02;Salto y doble salto con Espacio;1;Hecho;Programación;2 saltos configurados
+RF-03;Voltear sprite según dirección;1;Hecho;Programación;PlayerMovement
+RF-04;Ataque con J alternando puñetazo y patada;1;Hecho;Programación;PlayerCombat
+RF-05;Detección de golpes en AttackPoint;1;Hecho;Programación;OverlapCircle radio 1,6
+RF-06;Animaciones idle, caminar, saltar y atacar;1;Hecho;Arte + Programación;Kael.controller
+RF-07;5 corazones de vida;1;Hecho;Programación;Medios corazones internos
+RF-08;Reaparecer en el último checkpoint;1;Hecho;Programación;GameManager.RespawnPlayer
+RF-09;Dash con invencibilidad y cooldown;4;Hecho;Programación;PlayerDash (K)
+RF-10;Sprint al mantener botón;4;Hecho;Programación;Shift izquierdo
+RF-11;Pulso de Calor que empuja y rompe muros;4;Hecho;Programación;PulsoDeCalor (Q)
+RF-12;Cámara con suavizado (Cinemachine);1;Hecho;Programación;CinemachineCamera
+RF-13;Límites de cámara;1;Hecho;Programación;LimitesCamara
+RF-14;Fondo con parallax;1;Hecho;Programación;Parallax
+RF-15;Lava daña con intervalo de 1 s;1;Hecho;Programación;DañoContacto
+RF-16;Enemigos dañan con cooldown de 1 s;1;Hecho;Programación;DañoContacto
+RF-17;3 Cristales de Checkpoint con sprite activo/inactivo;3;Pendiente editor;Nivel;Usar Checkpoint.prefab
+RF-18;GameManager guarda checkpoint y reposiciona;1;Hecho;Programación;PlayerPrefs
+RF-19;Guardado de progreso con PlayerPrefs;1;Hecho;Programación;DatosJuego
+RF-20;Golemita: patrulla, persigue y ataca;1;Hecho;Programación;GolemitaIA
+RF-21;Golemita deja rastro de lava;1;Hecho;Programación;RastroLava
+RF-22;Drop del 20 % de Cristal pequeño;2;Hecho;Programación;GolemitaHealth
+RF-23;Chispa: grupos de 3, picada y explosión;1;Hecho;Programación;ChispaIA + SpawnChispas
+RF-24;Molrak con 3 fases;3;Hecho;Programación;MolrakIA + MolrakHealth
+RF-25;Charcos y ríos de lava;2;Hecho;Nivel;Tilemap capa lava
+RF-26;Géiseres cada 3 s;2;Hecho;Programación + Nivel;Geiser1
+RF-27;Palancas que abren compuertas;1;Hecho;Programación;Palanca + Compuerta
+RF-28;Muros rompibles con el Pulso;4;Hecho;Programación;MuroRompible
+RF-29;2 zonas secretas (pared falsa y catarata);2;Pendiente editor;Nivel;Ver Instrucciones_Editor.md
+RF-30;Puentes que se derrumban;2;Hecho;Programación;PuenteDerrumbable
+RF-31;Puzzle de 3 válvulas en orden;3;Hecho;Programación;Valvula + PuzzleValvulas
+RF-32;Lluvia de rocas volcánicas;3;Hecho;Programación;LluviaRocas
+RF-33;Explosiones de magma aleatorias;3;Hecho;Programación;ExplosionMagma
+RF-34;Puerta del jefe que se cierra al entrar;3;Hecho;Programación;PuertaJefe + ZonaCombateJefe
+RF-35;Cristal pequeño cura medio corazón;2;Hecho;Programación;ItemRecolectable
+RF-36;Cristal grande cura 1 corazón;2;Hecho;Programación;ItemRecolectable
+RF-37;Cristal de Mejora reduce cooldown;2;Hecho;Programación;ItemRecolectable
+RF-38;Fragmento de Aethon completa Ignar;3;Hecho;Programación;FragmentoAethon
+RF-39;Cristal de Checkpoint (no se recoge);1;Hecho;Programación;Checkpoint
+RF-40;HUD de 5 corazones;1;Hecho;Programación;HUDManager
+RF-41;Slot de fragmento que se ilumina;2;Hecho;Programación;HUDManager
+RF-42;Icono del Pulso con barra de cooldown;2;Hecho;Programación;HUDManager
+RF-43;Menú principal con botones;1;Hecho;Programación;MainMenuManager
+RF-44;Pausa con Continuar, Opciones y Menú;1;Hecho;Programación;PauseManager
+RF-45;Game Over con Reintentar y Menú;1;Hecho;Programación;GameOverManager
+RF-46;Pantalla de Fragmento obtenido;3;Hecho;Programación;PanelFragmento
+RF-47;Música de Ignar M02;4;Pendiente audio;Audio;Assets/Resources/Audio/Musica/Ignar.ogg
+RF-48;Música del menú M09;4;Pendiente audio;Audio;Assets/Resources/Audio/Musica/MainMenu.ogg
+RF-49;SFX S03 S04 S05 S24 S25;4;Pendiente audio;Audio;Asignar en Inspector
+RNF-01;Ejecutable de Windows sin instalación;4;Pendiente build;Build;Día 9
+RNF-02;60 FPS en gama media;4;En verificación;QA;Profiler
+RNF-03;Pixel art con Filter Point y sin compresión;4;En verificación;Arte;Configurar importación
+RNF-04;Respuesta inmediata de controles;4;Hecho;Programación;Sin retrasos artificiales
+RNF-05;Sesión de 10 a 20 minutos;4;En verificación;QA;Prueba completa
+RNF-06;Código organizado por responsabilidades;1;Hecho;Programación;46 scripts
+RNF-07;Enemigos y obstáculos como prefabs;3;Hecho;Programación;14 prefabs
+RNF-08;Control de versiones Git/GitHub;1;Hecho;Producción;Repositorio del proyecto
+RNF-09;Presupuesto 0 dólares;1;Hecho;Producción;Unity Personal + assets propios
+RNF-10;Exportable a Windows;4;Pendiente build;Build;Día 9

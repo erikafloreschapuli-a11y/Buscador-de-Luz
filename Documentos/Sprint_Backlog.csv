@@ -1,0 +1,22 @@
+﻿ID;Tarea;Día;RF;Horas;Estado;Responsable
+T-01;Estabilizar pausa, muerte, respawn e i-frames;Día 1;RF-08/15/45;5;Hecho;Programación
+T-02;Items, HUD y drops;Día 2;RF-35/36/37/41/42;6;Hecho;Programación
+T-03;Molrak, puerta y final del nivel;Día 3;RF-24/34/38/46;7;Hecho;Programación
+T-04;Pulso de Calor y muros rompibles;Día 4;RF-11/28/29;6;Hecho;Programación
+T-05;Trampas de Zona 2 (puentes, válvulas, rocas);Día 5;RF-30/31/32;6;Hecho;Programación
+T-06;Explosiones de magma y cierre de zona 3;Día 6;RF-33;6;Hecho;Programación
+T-07;Audio, dash, sprint y opciones;Día 7;RF-09/10/43/44/47/48/49;6;Hecho;Programación
+T-08;Asignar sprites a los 14 prefabs;Día 8;RNF-03;3;Pendiente;Arte
+T-09;Colocar 3 checkpoints;Día 8;RF-17;0,5;Pendiente;Nivel
+T-10;Colocar cristales y 2 zonas secretas;Día 8;RF-29/35/36/37;2;Pendiente;Nivel
+T-11;Montar arena de Molrak + puerta + zona de combate;Día 8;RF-34;2;Pendiente;Nivel
+T-12;Construir recorrido de las 3 zonas con tilemaps;Día 8;RF-25;6;Pendiente;Nivel
+T-13;Colocar puentes, válvulas, rocas y explosiones;Día 8;RF-30/31/32/33;2;Pendiente;Nivel
+T-14;Importar música y SFX;Día 8;RF-47/48/49;1,5;Pendiente;Audio
+T-15;Prueba completa y buglist;Día 8;RNF-02/04/05;2;Pendiente;QA
+T-16;Corregir bugs de la lista;Día 9;—;3;Pendiente;Programación
+T-17;Build de Windows y validación;Día 9;RNF-01/10;2;Pendiente;Build
+T-18;Documento de Diseño (Word);Día 10;Criterio 9;2;En curso;Producción
+T-19;Documentos de Producción (Excel);Día 10;Criterio 9;2;En curso;Producción
+T-20;Presentación de 5 minutos;Día 10;Criterio 10;1;En curso;Producción
+T-21;Commit final y push;Día 10;RNF-08;0,5;Pendiente;Producción

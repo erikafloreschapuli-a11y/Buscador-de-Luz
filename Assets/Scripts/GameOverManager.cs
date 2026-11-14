@@ -24,6 +24,9 @@ public class GameOverManager : MonoBehaviour
 
     private bool activo;
 
+    /// <summary>True desde que Kael muere hasta que se reintenta o se va al menú.</summary>
+    public bool EnCurso => activo;
+
     private void Awake()
     {
         Instance = this;
@@ -56,6 +59,12 @@ public class GameOverManager : MonoBehaviour
         // Mientras corre el tiempo normal, se ve la animación de muerte
         yield return new WaitForSeconds(retraso);
 
+        if (panelGameOver == null)
+        {
+            Time.timeScale = 0f;
+            yield break;
+        }
+
         panelGameOver.gameObject.SetActive(true);
         panelGameOver.alpha = 0f;
         panelGameOver.blocksRaycasts = true;
@@ -78,15 +87,21 @@ public class GameOverManager : MonoBehaviour
         panelGameOver.interactable = true;
     }
 
+    // RF-45: Reintentar desde el último checkpoint activado
     public void Reintentar()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene(escenaJuego);
+
+        // Cargar la escena de nuevo resetea enemigos, HUD y estado;
+        // GameManager.coloca a Kael en el checkpoint guardado (RF-19).
+        string escena = SceneManager.GetActiveScene().name;
+        SceneManager.LoadScene(string.IsNullOrEmpty(escena) ? escenaJuego : escena);
     }
 
     public void MenuPrincipal()
     {
         Time.timeScale = 1f;
+        DatosJuego.Guardar();
         SceneManager.LoadScene(escenaMenu);
     }
 }

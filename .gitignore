@@ -10,3 +10,11 @@
 *.sln
 *.suo
 *.user
+
+# Respaldos locales
+Assets/Scenes/*_respaldo*
+Assets/Animation/*respaldo*
+Assets/Prefabs/_Respaldo/
+Assets/Prefabs/_Respaldo.meta
+Assets/_Recovery/
+Assets/_Recovery.meta

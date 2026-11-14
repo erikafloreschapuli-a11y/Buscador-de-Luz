@@ -32,7 +32,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -21.24, y: -1.64, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.74805194, y: 0.74805194, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -198,11 +198,9 @@ MonoBehaviour:
   velocidad: 5
   distanciaPatrulla: 20
   rangoDeteccion: 15
-  rangoAtaque: 5
+  rangoAtaque: 3
   "da\xF1o": 2
-  rastroLavaPrefab: {fileID: 5443791559938307396, guid: 0b50d2448229f3a4984043507d321ee7, type: 3}
-  tiempoEntreRastro: 0.1
-  tiempoVidaRastro: 3
+  distanciaActivacion: 40
 --- !u!114 &4417325870695957333
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -216,3 +214,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GolemitaHealth
   vidaMaxima: 3
+  probabilidadDrop: 20
+  cristalPrefab: {fileID: 8000000000596386801, guid: ca063a8a5e184c2fba1c3e896a775b13, type: 3}
+  puntoDrop: {fileID: 0}
+  alturaDrop: 0.5
+  "sonidoDa\xF1o": {fileID: 0}
+  sonidoMuerte: {fileID: 0}

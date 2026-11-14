@@ -7,11 +7,16 @@ public class PlayerMovement : MonoBehaviour
    public LayerMask CapaSuelo; 
    public float saltosMaximos;
 
+   [Header("Sprint (RF-10)")]
+   public float multiplicadorSprint = 1.6f;
+   public KeyCode teclaSprint = KeyCode.LeftShift;
+
    private float SaltosRestantes;
    private new Rigidbody2D rigidbody;
    private BoxCollider2D boxCollider;
    private bool mirandoDerecha = true;
    private Animator animator;
+   private float ultimoSalto = -1f;
 
     private void Start()
     {
@@ -29,13 +34,19 @@ public class PlayerMovement : MonoBehaviour
 
     bool EstaEnSuelo()
     {
-         RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, new Vector2(boxCollider.bounds.size.x, boxCollider.bounds.size.y), 0f, Vector2.down, 0.2f, CapaSuelo);
+         // Solo una franja delgada bajo los pies (90 % del ancho) para no detectar
+         // paredes a los lados ni el suelo justo después de despegar.
+         Bounds b = boxCollider.bounds;
+         Vector2 origen = new Vector2(b.center.x, b.min.y + 0.05f);
+         Vector2 tamaño = new Vector2(b.size.x * 0.9f, 0.1f);
+         RaycastHit2D raycastHit = Physics2D.BoxCast(origen, tamaño, 0f, Vector2.down, 0.1f, CapaSuelo);
          return raycastHit.collider != null;
     }
 
     void Procesarsalto()
     {
-        if (EstaEnSuelo())
+        // Recargar saltos solo al estar apoyado (no mientras sube tras saltar)
+        if (EstaEnSuelo() && rigidbody.linearVelocity.y <= 0.01f)
         {
             SaltosRestantes = saltosMaximos;
         }
@@ -48,7 +59,11 @@ public class PlayerMovement : MonoBehaviour
             
             // NUEVO: Activa la animación de salto
             animator.SetTrigger("Jump");
+            ultimoSalto = Time.time;
         }
+
+        // Animator: Kael está en el suelo (para salir de la animación de salto al aterrizar)
+        animator.SetBool("Grounded", EstaEnSuelo() && rigidbody.linearVelocity.y <= 0.01f && Time.time - ultimoSalto > 0.15f);
     }
 
     void ProcesarMovimiento()
@@ -65,7 +80,10 @@ public class PlayerMovement : MonoBehaviour
            animator.SetBool("Running", false);
        }
 
-       rigidbody.linearVelocity = new Vector2(inputMovimientoo * velocidad, rigidbody.linearVelocity.y);
+       float multiplicador = Input.GetKey(teclaSprint) ? multiplicadorSprint : 1f;
+       // Animación de correr (estado Run del Animator) al mantener Shift y moverse
+       animator.SetBool("Sprinting", Input.GetKey(teclaSprint) && inputMovimientoo != 0f);
+       rigidbody.linearVelocity = new Vector2(inputMovimientoo * velocidad * multiplicador, rigidbody.linearVelocity.y);
        GestionarOrientacion(inputMovimientoo);
     }
 

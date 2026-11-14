@@ -32,6 +32,8 @@ public class ChispaIA : MonoBehaviour
     private float timerAtaque = 0f;
     private bool explotando = false;
     private bool animatorValido;
+    private float timerEmpuje;
+    private Vector2 velocidadEmpuje;
 
     private void Start()
     {
@@ -56,6 +58,19 @@ public class ChispaIA : MonoBehaviour
     private void Update()
     {
         if (explotando) return;
+
+        // RF-11: mientras la empuja el Pulso de Calor no persigue ni ataca
+        if (timerEmpuje > 0f)
+        {
+            timerEmpuje -= Time.deltaTime;
+            transform.position += (Vector3)(velocidadEmpuje * Time.deltaTime);
+            velocidadEmpuje = Vector2.Lerp(velocidadEmpuje, Vector2.zero, Time.deltaTime * 7f);
+
+            if (timerEmpuje <= 0f)
+                posicionInicio = transform.position;
+
+            return;
+        }
 
         if (kael == null)
         {
@@ -189,6 +204,41 @@ public class ChispaIA : MonoBehaviour
         if (col != null) col.enabled = false;
 
         Destroy(gameObject, tiempoDestruccion);
+    }
+
+    /// <summary>Emboscada: la Chispa no alcanzó a Kael y explota sola, sin hacerle daño.</summary>
+    public void ExplotarSinDaño()
+    {
+        if (explotando) return;
+        explotando = true;
+
+        if (efectoExplosion != null)
+            Instantiate(efectoExplosion, transform.position, Quaternion.identity);
+
+        if (animatorValido)
+            animator.SetTrigger("Death");
+
+        Collider2D col = GetComponent<Collider2D>();
+        if (col != null) col.enabled = false;
+
+        Destroy(gameObject, tiempoDestruccion);
+    }
+
+    /// <summary>RF-11: el Pulso de Calor empuja a la Chispa.</summary>
+    public void Empujar(Vector2 fuerza, float duracion)
+    {
+        if (explotando) return;
+
+        velocidadEmpuje = fuerza;
+        timerEmpuje = Mathf.Max(0.05f, duracion);
+        atacando = false;
+        timerAtaque = 0f;
+
+        if (animatorValido)
+        {
+            animator.SetBool("Flying", false);
+            animator.SetBool("Diving", false);
+        }
     }
 
     private void OnDrawGizmosSelected()

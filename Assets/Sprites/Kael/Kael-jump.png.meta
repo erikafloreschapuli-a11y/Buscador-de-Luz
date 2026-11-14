@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 77ccf917d79ace14eb2f2abeede443de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6287098008252357741
+    second: Kael-jump_0
+  - first:
+      213: 7388787360034024337
+    second: Kael-jump_1
+  - first:
+      213: -6837524752152160814
+    second: Kael-jump_2
+  - first:
+      213: 1086519552516603142
+    second: Kael-jump_3
+  - first:
+      213: -8167221778926690750
+    second: Kael-jump_4
+  - first:
+      213: -522796421103388624
+    second: Kael-jump_5
+  - first:
+      213: 6550809253680486619
+    second: Kael-jump_6
+  - first:
+      213: 494115807310219013
+    second: Kael-jump_7
+  - first:
+      213: -6660224164163983703
+    second: Kael-jump_8
+  - first:
+      213: -5978089027601212317
+    second: Kael-jump_9
+  - first:
+      213: -1991839126192719741
+    second: Kael-jump_10
+  - first:
+      213: 6887181278013790459
+    second: Kael-jump_11
+  - first:
+      213: -2280402684414844450
+    second: Kael-jump_12
+  - first:
+      213: 6900896249157729734
+    second: Kael-jump_13
+  - first:
+      213: -6163381994094821233
+    second: Kael-jump_14
+  - first:
+      213: 6098770047324583898
+    second: Kael-jump_15
+  - first:
+      213: -37255631291560239
+    second: Kael-jump_16
+  - first:
+      213: -1991101088477261573
+    second: Kael-jump_17
+  - first:
+      213: -2256719197827934231
+    second: Kael-jump_18
+  - first:
+      213: 1588368687778251003
+    second: Kael-jump_19
+  - first:
+      213: -3812340714900823442
+    second: Kael-jump_20
+  - first:
+      213: 471301321207915433
+    second: Kael-jump_21
+  - first:
+      213: 2062131229398312068
+    second: Kael-jump_22
+  - first:
+      213: -1994421140665517856
+    second: Kael-jump_23
+  - first:
+      213: -391243245207301078
+    second: Kael-jump_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kael-jump_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1041
+        width: 76
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45302013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c92f9f352404750800000000000000
+      internalID: 6287098008252357741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1041
+        width: 78
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46232876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b69bbd4fe3a8660800000000000000
+      internalID: 7388787360034024337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1041
+        width: 80
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47202796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d59705f67b3c11a0800000000000000
+      internalID: -6837524752152160814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_3
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1041
+        width: 80
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60db441c6c7141f00800000000000000
+      internalID: 1086519552516603142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_4
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1041
+        width: 79
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44701988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e9d39501338ae80800000000000000
+      internalID: -8167221778926690750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 788
+        width: 86
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38135594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0387946cc67aeb8f0800000000000000
+      internalID: -522796421103388624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 847
+        width: 86
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43269232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd897fcfe4629ea50800000000000000
+      internalID: 6550809253680486619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 865
+        width: 86
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4560811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50781a475b37bd600800000000000000
+      internalID: 494115807310219013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 872
+        width: 86
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46232876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6688af8612293a0800000000000000
+      internalID: -6660224164163983703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 875
+        width: 86
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c5b22e3bf890da0800000000000000
+      internalID: -5978089027601212317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 616
+        width: 86
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388fe813ed09b54e0800000000000000
+      internalID: -1991839126192719741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 609
+        width: 86
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46551725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf89bbbe1ee249f50800000000000000
+      internalID: 6887181278013790459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 574
+        width: 87
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4383117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed12b9237d16a50e0800000000000000
+      internalID: -2280402684414844450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 529
+        width: 86
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4066265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd3fda7398e4cf50800000000000000
+      internalID: 6900896249157729734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_14
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 530
+        width: 79
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46551725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8080fa3bb4477aa0800000000000000
+      internalID: -6163381994094821233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 273
+        width: 81
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4787234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7f29d9b0f23a450800000000000000
+      internalID: 6098770047324583898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 273
+        width: 81
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4787234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1decbf26334ab7ff0800000000000000
+      internalID: -37255631291560239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 273
+        width: 79
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47202796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf05b6dfb103e54e0800000000000000
+      internalID: -1991101088477261573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_18
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 273
+        width: 74
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44701988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e759af98d58ea0e0800000000000000
+      internalID: -2256719197827934231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_19
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 273
+        width: 67
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41411042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0406fe7e40b0610800000000000000
+      internalID: 1588368687778251003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 17
+        width: 66
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4041916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62e3958158d71bc0800000000000000
+      internalID: -3812340714900823442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 17
+        width: 67
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4041916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a325c8fd066a8600800000000000000
+      internalID: 471301321207915433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 17
+        width: 67
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4041916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484a6807d692e9c10800000000000000
+      internalID: 2062131229398312068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_23
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 17
+        width: 67
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4041916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e83a1a1a846254e0800000000000000
+      internalID: -1994421140665517856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael-jump_24
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 18
+        width: 67
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4066265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24d5a46756029af0800000000000000
+      internalID: -391243245207301078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6101cd05be9aac74eb21282762a5cc84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kael-jump_0: 6287098008252357741
+      Kael-jump_1: 7388787360034024337
+      Kael-jump_10: -1991839126192719741
+      Kael-jump_11: 6887181278013790459
+      Kael-jump_12: -2280402684414844450
+      Kael-jump_13: 6900896249157729734
+      Kael-jump_14: -6163381994094821233
+      Kael-jump_15: 6098770047324583898
+      Kael-jump_16: -37255631291560239
+      Kael-jump_17: -1991101088477261573
+      Kael-jump_18: -2256719197827934231
+      Kael-jump_19: 1588368687778251003
+      Kael-jump_2: -6837524752152160814
+      Kael-jump_20: -3812340714900823442
+      Kael-jump_21: 471301321207915433
+      Kael-jump_22: 2062131229398312068
+      Kael-jump_23: -1994421140665517856
+      Kael-jump_24: -391243245207301078
+      Kael-jump_3: 1086519552516603142
+      Kael-jump_4: -8167221778926690750
+      Kael-jump_5: -522796421103388624
+      Kael-jump_6: 6550809253680486619
+      Kael-jump_7: 494115807310219013
+      Kael-jump_8: -6660224164163983703
+      Kael-jump_9: -5978089027601212317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

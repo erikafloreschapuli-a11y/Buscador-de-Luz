@@ -1,0 +1,21 @@
+﻿ID;Fecha;Descripción;Severidad;Estado;Solución
+B-01;11/11/2026;PauseManager.CS con extensión en mayúsculas no compilaba en algunos equipos;Alta;Corregido;Renombrado a PauseManager.cs
+B-02;11/11/2026;Al morir con la pausa abierta, Time.timeScale = 0 impedía ver el Game Over;Crítica;Corregido;PauseManager bloquea la pausa durante Game Over
+B-03;11/11/2026;El Game Over no reaparecía tras reintentar;Alta;Corregido;Flujo único muerte → Game Over → respawn
+B-04;11/11/2026;La lava dañaba en cada frame;Crítica;Corregido;DañoContacto con intervalo de 1 s
+B-05;11/11/2026;No había invencibilidad tras recibir daño;Alta;Corregido;1 s de i-frames con parpadeo
+B-06;11/11/2026;El checkpoint no se guardaba entre sesiones;Alta;Corregido;PlayerPrefs en DatosJuego
+B-07;11/11/2026;El HUD lanzaba NullReference si faltaba un corazón;Media;Corregido;Validaciones null en HUDManager
+B-08;11/11/2026;RastroLava escribía en consola cada frame;Baja;Corregido;Debug.Log eliminado
+B-09;11/11/2026;Los acentos de los YAML aparecían escapados (\xF1);Media;Corregido;UTF-8 real en escenas y prefabs
+B-10;11/11/2026;SpawnChispas no hacía nada sin puntos asignados;Baja;Corregido;Crea 3 puntos automáticos
+B-11;11/11/2026;La puerta del jefe empezaba cerrada y bloqueaba la entrada;Alta;Corregido;empiezaCerrada = 0
+B-12;11/11/2026;ZonaCombateJefe no encontraba jefe ni puerta;Baja;Corregido;Búsqueda automática en Start
+B-13;11/11/2026;El botón Mapa del menú no llamaba a ningún método;Media;Corregido;Cableado a MainMenuManager.AbrirMapa
+B-14;11/11/2026;La Golemita no soltaba cristales;Media;Corregido;cristalPrefab + probabilidad 20
+B-15;11/11/2026;RocaVolcanica sin campos de daño;Alta;Corregido;daño 1 y tiempoEntreDaño 1
+B-16;11/11/2026;La pausa no tenía botón de Opciones;Media;Corregido;Botón y panel autogenerados
+B-17;11/11/2026;El panel de Opciones no existía en el menú;Media;Corregido;ConstructorUI lo crea al abrir
+B-18;11/11/2026;Sin AudioManager en escena no sonaba nada;Media;Corregido;BootstrapAudio lo crea solo
+B-19;11/11/2026;El jugador no tenía dash ni Pulso;Alta;Corregido;BootstrapJugador añade los componentes
+B-20;11/11/2026;El mensaje final no aparecía si faltaba el panel;Media;Corregido;BootstrapFragmento lo crea
